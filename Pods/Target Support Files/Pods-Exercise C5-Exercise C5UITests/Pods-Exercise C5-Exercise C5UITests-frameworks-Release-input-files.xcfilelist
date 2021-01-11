@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Exercise C5-Exercise C5UITests/Pods-Exercise C5-Exercise C5UITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
